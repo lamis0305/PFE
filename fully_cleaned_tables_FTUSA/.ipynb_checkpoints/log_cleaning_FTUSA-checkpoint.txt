@@ -1,0 +1,27 @@
+filename|status|timestamp|output_file
+Rapport-FTUSA-2012_page_92_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees.xlsx
+Rapport-FTUSA-2012_page_93_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_1.xlsx
+Rapport-FTUSA-2012_page_94_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_2.xlsx
+Rapport-FTUSA-2012_page_95_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_3.xlsx
+Rapport-FTUSA-2012_page_96_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_4.xlsx
+Rapport-FTUSA-2012_page_97_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_5.xlsx
+Rapport-FTUSA-2020_page_82_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_6.xlsx
+Rapport-FTUSA-2020_page_83_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_7.xlsx
+Rapport-FTUSA-2020_page_84_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_8.xlsx
+Rapport-FTUSA-2020_page_85_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_9.xlsx
+Rapport-FTUSA-2020_page_86_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_10.xlsx
+Rapport-FTUSA-2021_page_82_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_11.xlsx
+Rapport-FTUSA-2021_page_83_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_12.xlsx
+Rapport-FTUSA-2021_page_84_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_13.xlsx
+Rapport-FTUSA-2021_page_85_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_14.xlsx
+Rapport-FTUSA-2021_page_86_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_15.xlsx
+Rapport-FTUSA-2022_page_83_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_16.xlsx
+Rapport-FTUSA-2022_page_84_table_1.xlsx|SUCCESS|2025-06-17 03:00:26|Donnees_17.xlsx
+Rapport-FTUSA-2022_page_85_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_18.xlsx
+Rapport-FTUSA-2022_page_86_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_19.xlsx
+Rapport-FTUSA-2022_page_87_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_20.xlsx
+Rapport-FTUSA-2023_page_79_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_21.xlsx
+Rapport-FTUSA-2023_page_80_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_22.xlsx
+Rapport-FTUSA-2023_page_81_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_23.xlsx
+Rapport-FTUSA-2023_page_82_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_24.xlsx
+Rapport-FTUSA-2023_page_83_table_1.xlsx|SUCCESS|2025-06-17 03:00:27|Donnees_25.xlsx
