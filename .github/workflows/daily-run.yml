@@ -1,0 +1,27 @@
+name: Run Every Day
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs at 6am UTC every day
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get my code
+        uses: actions/checkout@v3
+
+      - name: Use Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install packages (if needed)
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run my script!
+        run: |
+          python master_pipeline.py
